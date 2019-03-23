@@ -1,5 +1,7 @@
 
-# arduino-game-controller
+# Simple Arduino Game Controller
+Use an Arduino as a USB game controller!
+
 Thanks to **[gamelasster](https://github.com/gamelaster)** and his awesome library **[ArduinoGamepad](https://github.com/gamelaster/ArduinoGamepad)** for making this project possible.
 
  - Find the script ***SimpleGameController.ino*** inside the folder ***SimpleGameController***
